@@ -1,3 +1,7 @@
+**DEPRECATED**
+
+See https://github.com/algolia/npm-search
+
 # npm-registry Algolia connector
 
 Replicate the full npmjs registry and watch for updates. Supports
